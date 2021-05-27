@@ -1,6 +1,6 @@
 #wrap{
     margin: 0px auto;
-    background-color: aquamarine;
+    background-color: #435560;
     width: 950px;
     font-family: sans-serif;
     padding: 25px;
@@ -8,7 +8,7 @@
 
 .form-box{
     display: inline-block;
-    background-color: burlywood;
+    background-color: #6e7c7c;
     width: 400px;
     min-height: 500px;
     padding: 25px;
@@ -27,20 +27,20 @@
 
 #errors {
     text-align: center;
-    color: red;
-    background-color: black;
+    color: #435560;
+    background-color:#c8c6a7;
     padding: 20px;
     height: 100px;
 }
 
 #posts {
-    background-color: burlywood;
+    background-color: #6e7c7c;
     padding: 25px;
     margin: 25px;
 }
 
 .one_post {
-    background-color: teal;
+    background-color: #92967d;
     padding: 25px;
     margin: 25px;
     min-height: 100px;
